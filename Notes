@@ -1,0 +1,37 @@
+Hello!
+I am submitting an assignment today that is only partially complete.  Though I know you may choose not to review it as such,
+I want you to know that you were right – I very much enjoyed every exercise that I was able to finish!  The format and structure
+of this application process made me confident that I would also very much enjoy working at InterMountain, so I am quite
+disappointed to find myself submitting an application at this stage that may put me behind other candidates you are considering.
+I would like to say that I wish I had been able to set aside the time I needed to finish properly.  Though I know everyone has busy lives
+and I do not wish to make excuses or exceptions for my incomplete product, I hope you might be willing to take a look at my submission.
+I was able to provide files for all exercises except the Hyperion task and the T-SQL function.  I simply ran out of time to address those!
+I do also wish to provide some notes on the files I was able to submit here – please see below:
+For the SQL assignment(s): I found this task to be much more difficult than anticipated, not because of the development or design work
+involved, but for lack of tools! Having been involved in large-scale government-managed projects for years, I have always been a step
+removed from any kind of environment setup or database administrative task by design – there are severe security restrictions on who
+can create a database, who can run grants on said database, and so on and so forth! I also did not have any relevant development
+software installed on my local computer, and in the end I wound up trying to test compile and execute my code with SQL Live, which
+turned out to be more limited than I had hoped. Though I was able to build my schema objects and populate them with test data, I
+had difficulty testing my query script through the tool, so I apologize if the output is still a bit rough.
+Those issues aside, I enjoyed setting up my little customer management system, basic though it was. If I had been able to add
+further complexity, I would have considered adding database objects to manage payment method information, system user roles/privileges,
+and access controls.  I also would have looked at indexing, more finely-tuned sizing of database objects, etc., and I would have built
+out my procedures with a more dedicated eye to performance and scalability, probably using multiple nested procedures/functions, perhaps
+called by shell scripts.  Finally, it would have been fun to build some sort of mock interface or front end – a java processor to
+transform query results into XML or JSON messages for an external consumer, for example.  
+For the FizzBuzz assignment: I was in a SQL groove at the point that I started this exercise, so I decided to stick with it for this
+task, and have some fun with regular expressions. It didn’t take long at all, but I got a kick out of watching it run
+properly on the first go-round!
+For the TicTacToe assignment: Once again here I struggled with a lack of relevant developer tools on my local machine!
+After getting set up properly, I decided to see if I could write code that would enable me to add on the UI layer that
+would make the game look a bit more shiny and polished -- but since that sort of coding is not yet my strong suit, I
+researched online to see how other coders have handled that aspect of this exercise, since I know it’s one of the standard
+learn-to-code challenges out there.  This wound up being a bad way to go, as I couldn’t get my game to behave properly after
+compilation.  In the end, this is where I ran out of time – trying to troubleshoot before I managed to append the UI component. 
+I wish I had been able to finish!  Once I had gotten a “playable” game, my plan was to go back and clean up the logic – I think
+I can make it much tighter if I had some time to spare!
+Thank you, again, for your consideration.
+I appreciate it!
+Best,
+Lauren 
